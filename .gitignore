@@ -1,0 +1,20 @@
+
+### `.gitignore`
+
+Este arquivo é essencial para o controle de versão com Git. Ele instrui o Git a ignorar arquivos e pastas que não devem ser versionados, como o ambiente virtual e os arquivos de uploads temporários.
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de uploads temporários
+uploads/
+
+# Logs e arquivos de depuração
+*.log
+.DS_Store
