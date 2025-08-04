@@ -223,7 +223,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Desenvolvedor
 
-**Dsantos Info**
+**DSantos Info**
 - Website: [www.dsantosinfo.com.br](https://www.dsantosinfo.com.br)
 - Telefone: (21) 99053-2437
 
